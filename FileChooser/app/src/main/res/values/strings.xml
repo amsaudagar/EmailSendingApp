@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FileChooser</string>
+    <string name="email">manavgupta10@gmail.com</string>
+    <string name="mail_subject">Anagram Lines</string>
+    <string name="mail_body">Please find the attached file for anagram lines</string>
+    <string name="send_mail">Sending email...</string>
+
+    <string name="notification_title">Anagram Found</string>
+    <string name="notification_message">%1$d Anagram line(s) found</string>
+    <string name="choose_text_file">Choose text file</string>
+    <string name="file_selected">File selected.</string>
+    <string name="select_first_file">Select First File</string>
+    <string name="first_file_not_selected">First File not selected</string>
+    <string name="select_second_file">Select Second File</string>
+    <string name="second_file_not_selected">Second File not selected</string>
+    <string name="generate_file_label">Generate Anagram File</string>
+
+</resources>
